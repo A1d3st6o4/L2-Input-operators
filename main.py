@@ -17,18 +17,23 @@ print(str(userage) + "is so young!")
 
 
 
-question1 = input ("Who is your Dream man?: ")
+verb1 = input (" Name a verb: ")
 
-print("ew not him! ")
+noun1 = input ("name a noun: ")
 
-question2 = input ("Why do you like him so much?: ")
+name1 = input ("name a supervillan name " )
 
-print("Huh, " + question1 + " looks ugly to me but I wont judge.")
+adjetive1 = input ("name an adjetive: ")
 
-question3 = input ("what is that")
+verb2 = input ("name a verb: ")
 
-print("why do you have a " + question3 + "?")
+element1 = input ("name an element: ")
 
-narrate1 = ("Im going to go now, want to come?: ")
+narrate1 = input  ("say a catchphrase: " )
 
-print("ok fine then be lilke that")
+food1 = input ("name a food: " )
+
+adjetive2 = input ("name an adjetive: ")
+
+print(" During a fight at gotham the " + adjetive1 + " magic " + noun1 + " user couldnt kill " + name1 + " because he kept " + verb1 + " at " + name1 + " . But with the help of his special ability " + element1 + noun1 + " He was able to defeat him and home to enjoy their" + food1 + " saying his infamous cathphrase" + narrate1 + " . Knowing the city lives once again" )
+
